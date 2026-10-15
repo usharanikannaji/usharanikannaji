@@ -18,8 +18,6 @@ Right now, I'm looking for my first full-time role as a DevOps Engineer.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" height="50" />
 </p>
 
 ---
@@ -30,15 +28,14 @@ Right now, I'm looking for my first full-time role as a DevOps Engineer.
 - **Containerization** — Docker and Kubernetes for portable, orchestrated deployments
 - **Cloud Infrastructure** — AWS (EC2, S3, IAM, Lambda, EKS) for scalable, secure systems
 - **DevSecOps** — SonarQube quality gates and Trivy container scanning as standard practice
-- **Monitoring** — Prometheus and Grafana for real visibility into what's actually running
+
 
 ---
 
 ### 📌 Featured Projects
 
 - **Starbucks DevSecOps CI/CD Pipeline** — full pipeline with Jenkins, Docker, and AWS EKS, security scanning built in, monitored with Prometheus & Grafana
-- **Cloud-Native Monitoring App** — Python/Flask app containerized and deployed to AWS EKS via ECR
-- **E-Commerce Catalog Deployment** — Spring Boot + React app with infrastructure provisioned through Terraform
+- **E-Commerce Catalog Deployment** — “Spring Boot + React app, containerized with Docker and built with Jenkins.”
 - **AWS Resource Tracker Pro** — Bash automation tool that monitors AWS resources via the CLI, scheduled with cron
 
 *(See pinned repos below for code.)*
